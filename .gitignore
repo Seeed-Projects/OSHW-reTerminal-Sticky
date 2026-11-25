@@ -1,0 +1,38 @@
+# ESP-IDF generated files
+build/
+build-review/
+managed_components/
+sdkconfig
+sdkconfig.old
+
+# Arduino / PlatformIO / ESPHome build output
+.pio/
+.esphome/
+
+# IDE and local tools
+.vscode/
+.idea/
+.cache/
+.clangd/
+compile_commands.json
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Local credentials and firmware signing/encryption keys
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+flash_encryption_key.bin
+secure_boot_signing_key.*
+
+# Logs and temporary files
+.trash/
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
