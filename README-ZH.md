@@ -14,7 +14,7 @@
 | [`examples/arduino/`](examples/arduino/README-ZH.md) | 规划中 | Arduino / PlatformIO 驱动库与示例 |
 | [`examples/esphome/`](examples/esphome/README-ZH.md) | 规划中 | ESPHome YAML 配置模板 |
 | [`examples/community/`](examples/community/README-ZH.md) | 规划中 | 社区开发者贡献的应用与示例 |
-| [`firmware/`](firmware/README-ZH.md) | 规划中 | 免编译预构建出厂 / 演示固件与烧录说明 |
+| [`firmware/`](firmware/README-ZH.md) | 已开放 | 官方出厂固件版本总表、SHA-256 校验值、烧录指南及 GitHub Releases 自动同步 |
 | [`hardware/`](hardware/README-ZH.md) | 已开放 | 官方原理图 PDF、3D 模型（`.stp`）与 3D 打印资源入口（PCB / BOM 与器件手册持续补充） |
 | [`docs/`](docs/README-ZH.md) | 规划中 | 仓库补充技术文档与硬件版本记录 |
 

@@ -14,7 +14,7 @@ This repository is organized as a unified hub for reTerminal Sticky examples, pr
 | [`examples/arduino/`](examples/arduino/) | Planned | Arduino / PlatformIO libraries and examples |
 | [`examples/esphome/`](examples/esphome/) | Planned | ESPHome YAML configurations |
 | [`examples/community/`](examples/community/) | Planned | Community-contributed projects and applications |
-| [`firmware/`](firmware/) | Planned | Prebuilt factory / demo binaries and flashing guides |
+| [`firmware/`](firmware/) | Available | Official factory firmware catalog, SHA-256 checksums, flashing guide, and automated GitHub Releases sync |
 | [`hardware/`](hardware/) | Available | Official schematic PDF, 3D model (`.stp`), and 3D-printable playground link (PCB/BOM & datasheets planned) |
 | [`docs/`](docs/) | Planned | Repository-specific technical notes and hardware revision logs |
 

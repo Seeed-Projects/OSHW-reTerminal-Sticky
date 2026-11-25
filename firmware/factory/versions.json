@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "id": "sticky-factory",
+  "name": "reTerminal Sticky Official Firmware",
+  "sourceRepository": "https://github.com/Seeed-Projects/reterminal-sticky-playground-registry/tree/main/firmwares/sticky-factory",
+  "webFlasherUrl": "https://www.seeedstudio.com/sticky/playground/official-firmware/",
+  "latestVersion": "1.2.0",
+  "versions": [
+    {
+      "version": "1.2.0",
+      "channel": "stable",
+      "chipFamily": "ESP32-S3",
+      "flashSize": "32MB",
+      "flashMode": "dio",
+      "flashFreq": "80m",
+      "baudRate": 460800,
+      "layout": "merged",
+      "totalSize": 33292288,
+      "releaseTag": "firmware-official-v1.2.0",
+      "releaseUrl": "https://github.com/Seeed-Projects/OSHW-reTerminal-Sticky/releases/tag/firmware-official-v1.2.0",
+      "manifestUrl": "https://github.com/Seeed-Projects/OSHW-reTerminal-Sticky/releases/download/firmware-official-v1.2.0/manifest.json",
+      "checksumsUrl": "https://github.com/Seeed-Projects/OSHW-reTerminal-Sticky/releases/download/firmware-official-v1.2.0/SHA256SUMS.txt",
+      "parts": [
+        {
+          "fileName": "reterminal_sticky_1_2_0.bin",
+          "offset": 0,
+          "offsetHex": "0x0",
+          "size": 33292288,
+          "sha256": "5cd55031ddee26cf32ed9e01dd89ed8d820bdbfe752d0140b136177fab26a2a2",
+          "downloadUrl": "https://github.com/Seeed-Projects/OSHW-reTerminal-Sticky/releases/download/firmware-official-v1.2.0/reterminal_sticky_1_2_0.bin",
+          "upstreamDownloadUrl": "https://raw.githubusercontent.com/Seeed-Projects/reterminal-sticky-playground-registry/main/firmwares/sticky-factory/firmware/1.2.0/reterminal_sticky_1_2_0.bin"
+        }
+      ]
+    },
+    {
+      "version": "1.1.0",
+      "channel": "stable",
+      "chipFamily": "ESP32-S3",
+      "flashSize": "32MB",
+      "flashMode": "dio",
+      "flashFreq": "80m",
+      "baudRate": 460800,
+      "layout": "merged",
+      "totalSize": 33292288,
+      "releaseTag": "firmware-official-v1.1.0",
+      "releaseUrl": "https://github.com/Seeed-Projects/OSHW-reTerminal-Sticky/releases/tag/firmware-official-v1.1.0",
+      "manifestUrl": "https://github.com/Seeed-Projects/OSHW-reTerminal-Sticky/releases/download/firmware-official-v1.1.0/manifest.json",
+      "checksumsUrl": "https://github.com/Seeed-Projects/OSHW-reTerminal-Sticky/releases/download/firmware-official-v1.1.0/SHA256SUMS.txt",
+      "parts": [
+        {
+          "fileName": "reterminal_sticky_1_1_0.bin",
+          "offset": 0,
+          "offsetHex": "0x0",
+          "size": 33292288,
+          "sha256": "8b149c809b7c07c680a59ab5621d7bd29ca85a8c1c9e9060b0040b387b4517e4",
+          "downloadUrl": "https://github.com/Seeed-Projects/OSHW-reTerminal-Sticky/releases/download/firmware-official-v1.1.0/reterminal_sticky_1_1_0.bin",
+          "upstreamDownloadUrl": "https://raw.githubusercontent.com/Seeed-Projects/reterminal-sticky-playground-registry/main/firmwares/sticky-factory/firmware/1.1.0/reterminal_sticky_1_1_0.bin"
+        }
+      ]
+    },
+    {
+      "version": "1.0.1",
+      "channel": "stable",
+      "chipFamily": "ESP32-S3",
+      "flashSize": "32MB",
+      "flashMode": "dio",
+      "flashFreq": "80m",
+      "baudRate": 921600,
+      "layout": "merged",
+      "totalSize": 33292288,
+      "releaseTag": "firmware-official-v1.0.1",
+      "releaseUrl": "https://github.com/Seeed-Projects/OSHW-reTerminal-Sticky/releases/tag/firmware-official-v1.0.1",
+      "manifestUrl": "https://github.com/Seeed-Projects/OSHW-reTerminal-Sticky/releases/download/firmware-official-v1.0.1/manifest.json",
+      "checksumsUrl": "https://github.com/Seeed-Projects/OSHW-reTerminal-Sticky/releases/download/firmware-official-v1.0.1/SHA256SUMS.txt",
+      "parts": [
+        {
+          "fileName": "reterminal_sticky_1_0_1.bin",
+          "offset": 0,
+          "offsetHex": "0x0",
+          "size": 33292288,
+          "sha256": "36f74e22c5f366af82d31eab224c10a380bf7cb6081e8d52b6c290d7b54b577c",
+          "downloadUrl": "https://github.com/Seeed-Projects/OSHW-reTerminal-Sticky/releases/download/firmware-official-v1.0.1/reterminal_sticky_1_0_1.bin",
+          "upstreamDownloadUrl": "https://github.com/Seeed-Projects/reterminal-sticky-playground-registry/releases/download/sticky-official-v1.0.1/reterminal_sticky_1_0_1.bin"
+        }
+      ]
+    },
+    {
+      "version": "0.5.1",
+      "channel": "stable",
+      "chipFamily": "ESP32-S3",
+      "flashSize": "32MB",
+      "flashMode": "dio",
+      "flashFreq": "80m",
+      "baudRate": 921600,
+      "layout": "merged",
+      "totalSize": 33292288,
+      "releaseTag": "firmware-official-v0.5.1",
+      "releaseUrl": "https://github.com/Seeed-Projects/OSHW-reTerminal-Sticky/releases/tag/firmware-official-v0.5.1",
+      "manifestUrl": "https://github.com/Seeed-Projects/OSHW-reTerminal-Sticky/releases/download/firmware-official-v0.5.1/manifest.json",
+      "checksumsUrl": "https://github.com/Seeed-Projects/OSHW-reTerminal-Sticky/releases/download/firmware-official-v0.5.1/SHA256SUMS.txt",
+      "parts": [
+        {
+          "fileName": "merged-flash_v051_prod.bin",
+          "offset": 0,
+          "offsetHex": "0x0",
+          "size": 33292288,
+          "sha256": "ec4a0c578d9cdac6944e7ea60336b4e4ee31a15a71f6ef6d56ac9bbf7b1bbcd5",
+          "downloadUrl": "https://github.com/Seeed-Projects/OSHW-reTerminal-Sticky/releases/download/firmware-official-v0.5.1/merged-flash_v051_prod.bin",
+          "upstreamDownloadUrl": "https://github.com/Seeed-Projects/reterminal-sticky-playground-registry/releases/download/sticky-official-v0.5.1/merged-flash_v051_prod.bin"
+        }
+      ]
+    },
+    {
+      "version": "0.4.1",
+      "channel": "stable",
+      "chipFamily": "ESP32-S3",
+      "flashSize": "32MB",
+      "flashMode": "dio",
+      "flashFreq": "80m",
+      "baudRate": 921600,
+      "layout": "merged",
+      "totalSize": 33292288,
+      "releaseTag": "firmware-official-v0.4.1",
+      "releaseUrl": "https://github.com/Seeed-Projects/OSHW-reTerminal-Sticky/releases/tag/firmware-official-v0.4.1",
+      "manifestUrl": "https://github.com/Seeed-Projects/OSHW-reTerminal-Sticky/releases/download/firmware-official-v0.4.1/manifest.json",
+      "checksumsUrl": "https://github.com/Seeed-Projects/OSHW-reTerminal-Sticky/releases/download/firmware-official-v0.4.1/SHA256SUMS.txt",
+      "parts": [
+        {
+          "fileName": "merged-flash_v041_prod.bin",
+          "offset": 0,
+          "offsetHex": "0x0",
+          "size": 33292288,
+          "sha256": "aba151075f359440e1ae399468af370024648b5c69d59ddf37336ea00edcf87d",
+          "downloadUrl": "https://github.com/Seeed-Projects/OSHW-reTerminal-Sticky/releases/download/firmware-official-v0.4.1/merged-flash_v041_prod.bin",
+          "upstreamDownloadUrl": "https://github.com/Seeed-Projects/reterminal-sticky-playground-registry/releases/download/sticky-official-v0.4.1/merged-flash_v041_prod.bin"
+        }
+      ]
+    },
+    {
+      "version": "0.3.3",
+      "channel": "stable",
+      "chipFamily": "ESP32-S3",
+      "flashSize": "32MB",
+      "flashMode": "dio",
+      "flashFreq": "80m",
+      "baudRate": 921600,
+      "layout": "merged",
+      "totalSize": 33292288,
+      "releaseTag": "firmware-official-v0.3.3",
+      "releaseUrl": "https://github.com/Seeed-Projects/OSHW-reTerminal-Sticky/releases/tag/firmware-official-v0.3.3",
+      "manifestUrl": "https://github.com/Seeed-Projects/OSHW-reTerminal-Sticky/releases/download/firmware-official-v0.3.3/manifest.json",
+      "checksumsUrl": "https://github.com/Seeed-Projects/OSHW-reTerminal-Sticky/releases/download/firmware-official-v0.3.3/SHA256SUMS.txt",
+      "parts": [
+        {
+          "fileName": "sticky_0.3.3.bin",
+          "offset": 0,
+          "offsetHex": "0x0",
+          "size": 33292288,
+          "sha256": "57b72cc53c7d61d16b84694735cbe766d425c1add2f230edac16eb5ad10a2f6a",
+          "downloadUrl": "https://github.com/Seeed-Projects/OSHW-reTerminal-Sticky/releases/download/firmware-official-v0.3.3/sticky_0.3.3.bin",
+          "upstreamDownloadUrl": "https://github.com/Seeed-Projects/reterminal-sticky-playground-registry/releases/download/sticky-official-v0.3.3/sticky_0.3.3.bin"
+        }
+      ]
+    },
+    {
+      "version": "0.2.1",
+      "channel": "stable",
+      "chipFamily": "ESP32-S3",
+      "flashSize": "32MB",
+      "flashMode": "dio",
+      "flashFreq": "80m",
+      "baudRate": 921600,
+      "layout": "partitioned",
+      "totalSize": 23087712,
+      "releaseTag": "firmware-official-v0.2.1",
+      "releaseUrl": "https://github.com/Seeed-Projects/OSHW-reTerminal-Sticky/releases/tag/firmware-official-v0.2.1",
+      "manifestUrl": "https://github.com/Seeed-Projects/OSHW-reTerminal-Sticky/releases/download/firmware-official-v0.2.1/manifest.json",
+      "checksumsUrl": "https://github.com/Seeed-Projects/OSHW-reTerminal-Sticky/releases/download/firmware-official-v0.2.1/SHA256SUMS.txt",
+      "parts": [
+        {
+          "fileName": "bootloader.bin",
+          "offset": 0,
+          "offsetHex": "0x0",
+          "size": 21552,
+          "sha256": "7076cf06ec5a947cd15d8aea3a46144f6296780fd33a47601361f66e44195ac5",
+          "downloadUrl": "https://github.com/Seeed-Projects/OSHW-reTerminal-Sticky/releases/download/firmware-official-v0.2.1/bootloader.bin",
+          "upstreamDownloadUrl": "https://github.com/Seeed-Projects/reterminal-sticky-playground-registry/releases/download/sticky-official-v0.2.1/bootloader.bin"
+        },
+        {
+          "fileName": "partition-table.bin",
+          "offset": 32768,
+          "offsetHex": "0x8000",
+          "size": 3072,
+          "sha256": "8370e5f553721492ae6605c8a71aa642a2b5bc064c6b8885ac096bfc31a11f1f",
+          "downloadUrl": "https://github.com/Seeed-Projects/OSHW-reTerminal-Sticky/releases/download/firmware-official-v0.2.1/partition-table.bin",
+          "upstreamDownloadUrl": "https://github.com/Seeed-Projects/reterminal-sticky-playground-registry/releases/download/sticky-official-v0.2.1/partition-table.bin"
+        },
+        {
+          "fileName": "ota_data_initial.bin",
+          "offset": 548864,
+          "offsetHex": "0x86000",
+          "size": 8192,
+          "sha256": "7d2c7ac4888bfd75cd5f56e8d61f69595121183afc81556c876732fd3782c62f",
+          "downloadUrl": "https://github.com/Seeed-Projects/OSHW-reTerminal-Sticky/releases/download/firmware-official-v0.2.1/ota_data_initial.bin",
+          "upstreamDownloadUrl": "https://github.com/Seeed-Projects/reterminal-sticky-playground-registry/releases/download/sticky-official-v0.2.1/ota_data_initial.bin"
+        },
+        {
+          "fileName": "reterminal_template.bin",
+          "offset": 589824,
+          "offsetHex": "0x90000",
+          "size": 2935344,
+          "sha256": "12b868fc231228271bbf3f008c671cd030063992808c423b61bc8ca60161d732",
+          "downloadUrl": "https://github.com/Seeed-Projects/OSHW-reTerminal-Sticky/releases/download/firmware-official-v0.2.1/reterminal_template.bin",
+          "upstreamDownloadUrl": "https://github.com/Seeed-Projects/reterminal-sticky-playground-registry/releases/download/sticky-official-v0.2.1/reterminal_template.bin"
+        },
+        {
+          "fileName": "sys_storage.bin",
+          "offset": 13172736,
+          "offsetHex": "0xC90000",
+          "size": 9633792,
+          "sha256": "85c642467579081944e26579aed1ff96c70e79f3d1d868374c502b41896e0191",
+          "downloadUrl": "https://github.com/Seeed-Projects/OSHW-reTerminal-Sticky/releases/download/firmware-official-v0.2.1/sys_storage.bin",
+          "upstreamDownloadUrl": "https://github.com/Seeed-Projects/reterminal-sticky-playground-registry/releases/download/sticky-official-v0.2.1/sys_storage.bin"
+        },
+        {
+          "fileName": "usr_storage.bin",
+          "offset": 22806528,
+          "offsetHex": "0x15C0000",
+          "size": 10485760,
+          "sha256": "ea729c22a9796bec404bf06d7ef063f74ca15fd854d13a1d8512f5d92b7dad28",
+          "downloadUrl": "https://github.com/Seeed-Projects/OSHW-reTerminal-Sticky/releases/download/firmware-official-v0.2.1/usr_storage.bin",
+          "upstreamDownloadUrl": "https://github.com/Seeed-Projects/reterminal-sticky-playground-registry/releases/download/sticky-official-v0.2.1/usr_storage.bin"
+        }
+      ]
+    }
+  ]
+}
